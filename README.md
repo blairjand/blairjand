@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @blairjand
-- 👀 I’m interested in **having a blast and aiming for that sweet, sweet billionaire status.**
-- 🌱 I’m currently learning **how to make good things happen (and hopefully, how to manage a private island one day).**
-- 💞️ I’m looking to collaborate on **anything innovative, exciting, or just plain profitable.**
-- 📫 How to reach me: **Send good vibes, great ideas, or investment opportunities!** (Again, replace with actual contact info if you wish.)
-- 😄 Pronouns: **They/Them** (or whatever yours are!)
-- ⚡ Fun fact: **I'm convinced that the best code is written when you're genuinely enjoying yourself.**
+Hi, I’m BJAN
+
+I’m the founder of THEBJANDCO, a startup dedicated to helping businesses build a strong and modern digital presence. My focus is on combining creativity, technology, and strategy to deliver meaningful online experiences that drive growth.
