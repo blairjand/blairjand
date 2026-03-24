@@ -33,7 +33,7 @@ Since **2015**, I have engineered **50+ production applications** spanning real 
 
 **Claude Code** and **Cursor** form the core of my build environment. They serve as profound force multipliers that allow me to ship with unprecedented velocity while maintaining rigorous production discipline at every layer.
 
-> *I don't just build websites.*
+> *I don't just build websites and apps.*
 > *I architect the digital infrastructure that businesses compete on.*
 
 - **AI-Augmented Execution** — Claude Code + Cursor for a 10× shipping velocity without compromising technical excellence.
