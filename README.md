@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0d0d0d,100:1a1a1a&section=header&animation=fadeIn" width="100%" />
-
-<div align="center">
+![Banner](./cover)
 
 ```
 ╔══════════════════════════════════════════════════════════╗
