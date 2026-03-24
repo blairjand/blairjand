@@ -12,12 +12,12 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Mono&weight=400&size=14&duration=3200&pause=1000&color=888888&center=true&vCenter=true&width=720&lines=Strategy+%E2%86%92+Design+%E2%86%92+Build+%E2%86%92+Scale;Claude+Code+%2B+Cursor+%E2%80%94+AI-first+from+day+one;50%2B+projects+%C2%B7+8+countries+%C2%B7+since+2015;SEO+%C2%B7+AEO+%C2%B7+GEO+%C2%B7+Security+built+into+every+system)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Mono&weight=400&size=14&duration=3200&pause=1000&color=888888&center=true&vCenter=true&width=720&lines=Strategy+%E2%86%92+Design+%E2%86%92+Build+%E2%86%92+Scale+%E2%86%92+Dominate;Automating+The+Impossible+With+AI+Systems;50%2B+Elite+Projects+%C2%B7+8+Countries+%C2%B7+Since+2015;Turning+Complex+Workflows+Into+High-Converting+Assets;Enterprise-Grade+Security+%2B+Built-In+Search+Authority)](https://git.io/typing-svg)
 
 <br/><br/>
 
-[![Email](https://img.shields.io/badge/-Email-0d0d0d?style=flat-square&logo=gmail&logoColor=white)](mailto:dblairjan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d0d0d?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blairjand/)
+[![Email](https://img.shields.io/badge/-Email-0d0d0d?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d0d0d?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Website](https://img.shields.io/badge/-thebjandco.com-0d0d0d?style=flat-square&logo=vercel&logoColor=white)](https://thebjandco.com)
 [![Views](https://komarev.com/ghpvc/?username=blairjand&style=flat-square&color=0d0d0d&label=PROFILE+VIEWS)](https://github.com/blairjand)
 
@@ -248,7 +248,7 @@ contact: "mailto:youremail@example.com"
 │    longer limit ourselves by what is feasible to        │
 │    build—we are limited only by our imagination."       │
 │                                                         │
-│                           —               THEBJANDCO    │
+│                           —           THEBJANDCO        │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
